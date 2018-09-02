@@ -2,7 +2,7 @@
 
 _Twitter Bootstrap Starter Template as a React App_
 
-After cloning the repo, `cd react-bootstrap-starter-template`
+After cloning the repo, `cd react-bootstrap-starter-template` _(or whatever you've named your clone)._
 
 Run `npm install`.
 
